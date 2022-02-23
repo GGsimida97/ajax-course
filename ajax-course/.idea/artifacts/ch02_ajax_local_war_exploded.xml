@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ch02-ajax-local:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ch02_ajax_local_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ch02-ajax-local" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ch02-ajax-local/web/Web" />
+    </root>
+  </artifact>
+</component>
